@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wasantha jayasinghe</h1>
-<h3 align="center">A passionate frontend developer from srilanka</h3>
+<h3 align="center">A passionate full-stack developer from srilanka</h3>
 
 - 📫 How to reach me **https://ridipencil.vercel.app/about**
 
