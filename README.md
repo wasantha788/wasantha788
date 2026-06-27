@@ -4,9 +4,10 @@
 - 📫 How to reach me **https://ridipencil.vercel.app/about**
 
 
-<h3 align="left">my best project -(1)Customer : https://kgsuper-client-production.up.railway.app/ </h3>
-                                  (2)Seller   : https://kgsuper-client-production.up.railway.app/seller </h3>
-                                  (3)delivery   : https://kgsuper-client-production.up.railway.app/delivery </h3>
+<h3 align="left">my best project -</h3>
+                                  <p>(1)Customer : https://kgsuper-client-production.up.railway.app/ </p>
+                                  <p>(2)Seller   : https://kgsuper-client-production.up.railway.app/seller </p>
+                                  <p>(3)delivery   : https://kgsuper-client-production.up.railway.app/delivery </p>
                                   
 <h3 align="left">Connect with me: **wasanthajayasinghe95@gmail.com </h3>
 <p align="left">
