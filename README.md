@@ -7,9 +7,6 @@
 <h3 align="left">my best project -</h3>
                                   <p>(1)Customer : https://kgsuper-client-production.up.railway.app/ </p>
                                   <p>(2)Seller   : https://kgsuper-client-production.up.railway.app/seller </p>
-                                  <p># Admin Credentials</p>
-                                      <p>SELLER_EMAIL="admin@example.com"</p>
-                                      <p>SELLER_PASSWORD="greatstack123"</p>
                                   <p>(3)delivery   : https://kgsuper-client-production.up.railway.app/delivery </p>
                                   
 <h3 align="left">Connect with me: **wasanthajayasinghe95@gmail.com </h3>
