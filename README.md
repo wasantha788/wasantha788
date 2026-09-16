@@ -20,7 +20,7 @@
 - 👨‍🍳 Chef  
 - 💰 Cashier  
 
-👉 Live Demo: [Restaurant System Frontend](https://restaurant-system-lac.vercel.app/)
+👉 Live Demo: [Restaurant System](https://restaurant-system-lac.vercel.app/)
 
 ---
 
