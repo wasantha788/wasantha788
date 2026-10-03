@@ -2,6 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 - 📫 How to reach me: [About Me](https://ridipencil.vercel.app/about)
+- 📫 Linkedin         https://www.linkedin.com/in/wasantha-jayasinghe-48a558419
 
 ---
 
