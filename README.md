@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wasantha Jayasinghe</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
-<p align="center">
-  <img src="profile.png" alt="My Profile" width="250"/>
-</p>
+![My Portfolio Screenshot](https://raw.githubusercontent.com/wasantha788/wasantha788/main/portfolio.png)
+
 
 - 📫 How to reach me: [About Me](https://ridipencil.vercel.app/about)
 - 📫 Linkedin         https://www.linkedin.com/in/wasantha-jayasinghe-48a558419
