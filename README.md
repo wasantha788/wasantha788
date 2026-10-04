@@ -6,7 +6,7 @@
 
 ---
 
-<h6 align="left">My Projects</h6>
+<h1 align="left">My Projects</h1>
 
 <h3 align="left">KG Supar Shop</h3>
 👉 Live Demo: 
