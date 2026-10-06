@@ -20,6 +20,8 @@
 
 <p> expired Railway free plan  so i have hosted in vercel</p>
 <p> https://kgsuper.vercel.app/</p>
+<p> https://kgsuper.vercel.app/seller </p>
+<p> https://kgsuper.vercel.app/delivery </p>
 ---
 <h3 align="left">Leader's Plant</h3>
  👉 Live Demo: <p></p>https://plant-nursery-sable.vercel.app</p>
