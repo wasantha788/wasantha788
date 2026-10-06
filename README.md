@@ -17,6 +17,9 @@
 <p>(2) Seller   : https://kgsuper-client-production.up.railway.app/seller </p>  
 <p>(3) Delivery : https://kgsuper-client-production.up.railway.app/delivery </p>  
 
+
+<p> expired Railway free plan  so i have hosted in vercel</p>
+<p> https://kgsuper.vercel.app/</p>
 ---
 <h3 align="left">Leader's Plant</h3>
  👉 Live Demo: <p></p>https://plant-nursery-sable.vercel.app</p>
